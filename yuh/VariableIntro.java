@@ -13,7 +13,7 @@ public class VariableIntro {
         // datatype name = value;
         double salary = 277353.0;
         int raise = 2;
-        // casting a variable is changing the datatpye
+        // casting a variable is changing the datatype
         raise = (int) salary;
         System.out.println(raise);
         System.out.println(salary);
