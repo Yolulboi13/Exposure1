@@ -38,6 +38,5 @@ public class Lab03 {
             System.out.println("Seconds: \t\t\t\t" + seconds);
             System.out.println("Milliseconds: \t\t\t" + milliseconds);
         }
-
     }
 }
